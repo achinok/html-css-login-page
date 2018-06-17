@@ -1,0 +1,46 @@
+
+html {
+    font-family: sans-serif;
+}
+
+body {
+  background-color: #ff9999;
+  margin: 0px 75px 30px 75px;
+  padding: 10px;
+}
+
+#login {
+  background-color: #9DD8D4;
+  width: 100px;
+}
+
+.remember {
+  display: inline;
+  border-radius: 0;
+  margin-right: 0;
+  text-align: left;
+}
+
+.me {
+  display: float;
+  flex-direction: row;
+  float: left;
+}
+
+
+input {
+  border-radius: 15px;
+  padding: 5px;
+  margin: 5px;
+}
+
+p {
+  color: #AAAAAA;
+}
+.box1 {
+  display: block;
+  background-color: #F1ECE9;
+  text-align: center;
+  margin: 150px;
+  padding: 20px 50px;
+}
